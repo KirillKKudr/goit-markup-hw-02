@@ -16,14 +16,14 @@ a{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
+    color: #4d5ae5;
 }
 
 .nav-logo-item{
-    color: #4d5ae5;
+    color: #2e2f42;
 }
 
 .nav-list-link{
@@ -164,5 +164,9 @@ color: #404bbf;
     line-height: 1.16667;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #f4f4fd;
+    color:#f4f4fd;
+}
+
+.nav-logo-item{
+    color:#4d5ae5;
 }
