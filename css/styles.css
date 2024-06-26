@@ -104,9 +104,10 @@ color: #404bbf;
     background: #f4f4fd;
 }
 
-.section-three-list{
+.section-three-list-item{
     background-color:#FFFFFF;
 }
+
 
 .section-three-content{
     font-weight: 700;
@@ -134,7 +135,6 @@ color: #404bbf;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    text-transform: capitalize;
 }
 
 .section-four-content{
@@ -144,6 +144,7 @@ color: #404bbf;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .section-four-names{
